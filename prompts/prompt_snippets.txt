@@ -1,0 +1,10 @@
+Write python code to rename every pdf file in a given directory as follows:
+
+Heading 01_-title1-constant-label.pdf
+Heading 02_-title2-constant-label.pdf
+
+to 
+
+ch01-title1-newlabel.pdf
+ch02-title2-newlabel.pdf
+
