@@ -8,3 +8,21 @@ to
 ch01-title1-newlabel.pdf
 ch02-title2-newlabel.pdf
 
+# Prompt # 1
+
+Write python code to rename every pdf file in a given directory as follows:
+
+Heading 01_-title1-constant-label.pdf
+Heading 02_-title2-constant-label.pdf
+
+to 
+
+ch01-title1-newlabel.pdf
+ch02-title2-newlabel.pdf
+
+
+# Prompt # 2
+write python code to combine a bunch of pdf into single pdf file.
+The files will be 01-title1.pdf, 02-title2.pdf,...
+Combine the files with bookmarks 01-title1, 02-title2,...
+Specific which python pdf package to use.

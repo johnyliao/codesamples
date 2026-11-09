@@ -48,6 +48,6 @@ if __name__ == "__main__":
     # Windows: r"C:\Users\YourName\Documents\PDF_Folder"
     # Mac/Linux: "/Users/YourName/Documents/PDF_Folder"
     # Relative path: "./my_pdfs"
-    my_folder = "C:\\books\\oreilly\\llm_engineer_handbook"
+    my_folder = ""
     
     combine_pdfs_from_directory(my_folder)

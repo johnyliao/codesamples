@@ -37,11 +37,7 @@ def strip_pdf_suffix(directory_path, suffix_to_remove="-constant-label"):
 # --- Example Usage ---
 # Replace 'your_directory_here' with the actual path to your folder
 # Example: r"C:\Users\Name\Documents\PDFs" or "/Users/Name/Documents/PDFs"
-#00a-Preface _ Beyond LLMs_ The Next Frontier of AI.pdf
-# 00b-Preface _ Hands-On LLM Serving and Optimization.pdf
-# 00a-Preface _ LLMs for Modern Software Delivery and DevOps.pdf
-# 00a-Forewords _ LLM Engineer's Handbook
-replaceable_label=" _ LLM Engineer's Handbook"
-target_directory = "C:\\books\\oreilly\\llm_engineer_handbook"
+replaceable_label=""
+target_directory = ""
 
 strip_pdf_suffix(target_directory, replaceable_label)
